@@ -1,0 +1,12 @@
+.Avatar{
+    border-radius: 100%;
+    background-image: url('../images/eu-2015-200x200.jpg');
+    background-position: center;
+    width: 160px;
+    height: 160px;
+    overflow: hidden;
+    background-size: cover;
+    float: left;
+    background-repeat: no-repeat;
+    margin: 0 25px 25px 0px;
+}
